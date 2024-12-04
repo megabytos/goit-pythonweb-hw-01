@@ -1,1 +1,1 @@
-# goit-pythonweb-hw-01
+# Python Web Development HomeWork 1
